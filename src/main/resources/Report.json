@@ -1,0 +1,142 @@
+{
+  "id": 1,
+  "name": "Le magnifique rapport",
+  "date": 1591108869107,
+  "reportDetail": [
+    {
+      "id": 1,
+      "axis": "Référentiel",
+      "step": "Étape 1",
+      "state": "Succès",
+      "exceptionCode": "",
+      "exceptionDescription": "",
+      "exceptionDetail": "OK."
+    },
+    {
+      "id": 1,
+      "axis": "Référentiel",
+      "step": "Étape 2",
+      "state": "Succès",
+      "exceptionCode": "",
+      "exceptionDescription": "",
+      "exceptionDetail": "OK."
+    },
+    {
+      "id": 1,
+      "axis": "Référentiel",
+      "step": "Étape 3",
+      "state": "Succès",
+      "exceptionCode": "",
+      "exceptionDescription": "",
+      "exceptionDetail": "OK."
+    },
+    {
+      "id": 2,
+      "axis": "Comptable",
+      "step": "Étape 1",
+      "state": "Succès",
+      "exceptionCode": "",
+      "exceptionDescription": "",
+      "exceptionDetail": "OK."
+    },
+    {
+      "id": 2,
+      "axis": "Comptable",
+      "step": "Étape 2",
+      "state": "Succès",
+      "exceptionCode": "",
+      "exceptionDescription": "",
+      "exceptionDetail": "OK."
+    },
+    {
+      "id": 2,
+      "axis": "Comptable",
+      "step": "Étape 3",
+      "state": "Succès",
+      "exceptionCode": "",
+      "exceptionDescription": "",
+      "exceptionDetail": "OK."
+    },
+    {
+      "id": 2,
+      "axis": "Comptable",
+      "step": "Étape 4",
+      "state": "Succès",
+      "exceptionCode": "ERR-001",
+      "exceptionDescription": "Erreur 001.",
+      "exceptionDetail": "La table XXX, ROWID=YYYY, colonne ABC est NULL."
+    },
+    {
+      "id": 2,
+      "axis": "Comptable",
+      "step": "Étape 4",
+      "state": "Succès",
+      "exceptionCode": "ERR-222",
+      "exceptionDescription": "Erreur 222.",
+      "exceptionDetail": "La table XXX, ROWID=YYYY, colonne ABC est NULL."
+    },
+    {
+      "id": 2,
+      "axis": "Comptable",
+      "step": "Étape 4",
+      "state": "Succès",
+      "exceptionCode": "ERR-333",
+      "exceptionDescription": "Erreur 333.",
+      "exceptionDetail": "La table XXX, ROWID=YYYY, colonne ABC est NULL."
+    },
+    {
+      "id": 2,
+      "axis": "Comptable",
+      "step": "Étape 4",
+      "state": "Succès",
+      "exceptionCode": "ERR-123",
+      "exceptionDescription": "Erreur 123.",
+      "exceptionDetail": "La table XXX, ROWID=YYYY, colonne ABC est NULL."
+    },
+    {
+      "id": 2,
+      "axis": "Comptable",
+      "step": "Étape 4",
+      "state": "Succès",
+      "exceptionCode": "ERR-999",
+      "exceptionDescription": "Erreur 999.",
+      "exceptionDetail": "La table XXX, ROWID=YYYY, colonne ABC est NULL."
+    },
+    {
+      "id": 2,
+      "axis": "Comptable",
+      "step": "Étape 5",
+      "state": "Succès",
+      "exceptionCode": "",
+      "exceptionDescription": "",
+      "exceptionDetail": "OK."
+    },
+    {
+      "id": 3,
+      "axis": "Historique",
+      "step": "Étape 1",
+      "state": "Succès",
+      "exceptionCode": "",
+      "exceptionDescription": "",
+      "exceptionDetail": "OK."
+    },
+    {
+      "id": 3,
+      "axis": "Historique",
+      "step": "Étape 2",
+      "state": "Succès",
+      "exceptionCode": "",
+      "exceptionDescription": "",
+      "exceptionDetail": "OK."
+    },
+    {
+      "id": 4,
+      "axis": "Valeur",
+      "step": "Étape 1",
+      "state": "Fail",
+      "exceptionCode": "DIV/0",
+      "exceptionDescription": "Divide by 0",
+      "exceptionDetail": "StackTrace XxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxX"
+    }
+  ]
+}

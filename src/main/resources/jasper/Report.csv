@@ -1,0 +1,25 @@
+,,,"Le super beau rapport avec des paramètres, sections, totaux et variables",,,,,,,,,,,,
+"juin 5, 2020 3:55:35 PM EDT",,,,,,,,,,,,,,,
+Processus de corroboration,,,,,,,, Exception,,,,,"Informations complémentaires
+(Pour l'équipe de support TI)",,
+ID,, Axe,, Étape,, Statut,, Code,, Description,,,,,
+,001,,Référentiel,,Étape 1,,Succès,,,,,,OK.,,
+,,,,,Étape 2,,Succès,,,,,,OK.,,
+,,,,,Étape 3,,Succès,,,,,,OK.,,
+,,,,,,,,,,,,,,Total des exception Axe :,000
+,002,,Comptable,,Étape 1,,Succès,,,,,,OK.,,
+,,,,,Étape 2,,Succès,,,,,,OK.,,
+,,,,,Étape 3,,Succès,,,,,,OK.,,
+,,,,,Étape 4,,Succès,,ERR-001,,Erreur 001.,,"La table XXX, ROWID=YYYY, colonne ABC est NULL.",,
+,,,,,Étape 4,,Succès,,ERR-222,,Erreur 222.,,"La table XXX, ROWID=YYYY, colonne ABC est NULL.",,
+,,,,,Étape 4,,Succès,,ERR-333,,Erreur 333.,,"La table XXX, ROWID=YYYY, colonne ABC est NULL.",,
+,,,,,Étape 4,,Succès,,ERR-123,,Erreur 123.,,"La table XXX, ROWID=YYYY, colonne ABC est NULL.",,
+,,,,,Étape 4,,Succès,,ERR-999,,Erreur 999.,,"La table XXX, ROWID=YYYY, colonne ABC est NULL.",,
+,,,,,Étape 5,,Succès,,,,,,OK.,,
+,,,,,,,,,,,,,,Total des exception Axe :,005
+,003,,Historique,,Étape 1,,Succès,,,,,,OK.,,
+,,,,,Étape 2,,Succès,,,,,,OK.,,
+,,,,,,,,,,,,,,Total des exception Axe :,000
+,004,,Valeur,,Étape 1,,Fail,,DIV/0,,Divide by 0,,StackTrace ... AoooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooA,,
+,,,,,,,,,,,,,,Total des exception Axe :,001
+,,,,,,,,,,,,Page 1,,,

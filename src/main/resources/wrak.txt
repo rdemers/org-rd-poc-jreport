@@ -1,0 +1,9 @@
+HashMap<String, Object> parameters = new HashMap<>();
+// Load your template
+JasperReport jasperReport = this.loadTemplate();
+jasperReport.setWhenNoDataType(WhenNoDataTypeEnum.ALL_SECTIONS_NO_DETAIL);
+// Create an empty datasource.
+final JRBeanCollectionDataSource dataSource =
+    new JRBeanCollectionDataSource(Collections.singletonList(""));
+ 
+JasperPrint jasperPrint = JasperFillManager.fillReport(jasperReport, parameters, dataSource);
