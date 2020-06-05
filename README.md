@@ -11,6 +11,3 @@ Pour plus de référence, veuillez considérer les sections suivantes:
 * [Spring Boot Maven Plugin Reference Guide](https://docs.spring.io/spring-boot/docs/2.3.0.RELEASE/maven-plugin/reference/html/)
 * [Spring Boot DevTools](https://docs.spring.io/spring-boot/docs/2.3.0.RELEASE/reference/htmlsingle/#using-boot-devtools)
 * [JasperSoft Jasper Report Studio](https://community.jaspersoft.com/project/jaspersoft-studio)
-
-### Autres
-Le répertoire doc contient également un PDF sur JasperSoft Jasper Report Studio
